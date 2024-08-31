@@ -6,12 +6,14 @@ const Sidebar = () => {
     <div className="Sidebar_container w-2/5 mr-1 flex flex-col justify-between">
       <div className="Introduce p-1 h-1/3">
         <p className="Introduce_wrapper text-center border-2 border-white m-1 p-3 flex flex-col">
-          <span className="Introduce_title text-5xl m-2 border-2 border-white mt-16 p-1 font-bold font-gothicA1">
+          <span className="Introduce_title text-5xl border-2 border-white mt-16 p-1 font-bold font-gothicA1">
             My Travel Planner
           </span>
           <br />
-          <span className="Introduce_text text-3xl m-2 border-2 border-white mt-2 p-1 font-gothicA1 font-semibold">
-            소중한 추억을 계획해 보세요 !!
+          <span className="Introduce_text text-3xl border-2 border-white mt-2 p-1 font-gothicA1 font-semibold">
+            당신의 꿈을 현실로 만드는 특별한 계획,
+            <br />
+            지금 시작하세요!
           </span>
         </p>
       </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import travelImage from '../assets/travel.webp';
+import travelImage from '../assets/travel55.webp';
 import { FaLongArrowAltRight } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 
